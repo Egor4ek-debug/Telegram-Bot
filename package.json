@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "bot-on-api-tg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.2",
+    "node-telegram-bot-api": "^0.59.0"
+  },
+  "description": ""
+}
